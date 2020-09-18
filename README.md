@@ -1,3 +1,1 @@
-# C
-
-To repozytorium zawiera moje projekty stworzone w visual studio code.
+# To repozytorium zawiera moje projekty stworzone w visual studio code.
