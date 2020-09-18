@@ -1,0 +1,1 @@
+Serwer wysyłający wiadomość na local hosta.
