@@ -1,0 +1,1 @@
+Jeszcze nie dokończony projekt zaliczeniowy na uczelnie.

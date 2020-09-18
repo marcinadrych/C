@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Company\Company\bin\Debug\netstandard2.0\Company.deps.json
+C:\Users\HP\source\repos\Company\Company\bin\Debug\netstandard2.0\Company.dll
+C:\Users\HP\source\repos\Company\Company\bin\Debug\netstandard2.0\Company.pdb
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.AssemblyInfo.cs
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.dll
+C:\Users\HP\source\repos\Company\Company\obj\Debug\netstandard2.0\Company.pdb
